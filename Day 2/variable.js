@@ -133,8 +133,10 @@ console.log(parseFloat(Math.ceil("9.8"))); //10
 
 //5. Check if 'on' is found in both python and jargon
 
-let j = "python and jargon";
-console.log(j.includes("on"));
+let py = "python";
+let j = "jargon";
+console.log(py.includes("on"));
+console.log(j.includes("on"))
 
 //6. I hope this course is not full of jargon. Check if jargon is in the sentence.
 let sentence2 = "I hope this course is not full of jargon.";
@@ -192,10 +194,10 @@ console.log(sentence.match(/because/g));
 
 const sentence3 = '%I $am@% a %tea@cher%, &and& I lo%#ve %te@a@ching%;. The@re $is no@th@ing; &as& mo@re rewarding as educa@ting &and& @emp%o@weri@ng peo@ple. ;I found tea@ching m%o@re interesting tha@n any ot#her %jo@bs. %Do@es thi%s mo@tiv#ate yo@u to be a tea@cher!? %Th#is 30#Days&OfJavaScript &is al@so $the $resu@lt of &love& of tea&ching';
 
-//not answeres
+console.log(sentence3.replace(/[%$@&#;?!]/g, ""));
 
 //4. Calculate the total annual income of the person by extracting the numbers from the following text. 'He earns 5000 euro from salary per month, 10000 euro annual bonus, 15000 euro online courses per month.'
 
-//not yet answered
+
 
 
