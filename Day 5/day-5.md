@@ -55,7 +55,7 @@ const webTechs = [
 ### Exercise: Level 2
 
 1. Create a separate countries.js file and store the countries array in to this file, create a separate file web_techs.js and store the webTechs array in to this file. Access both file in main.js file
-1. First remove all the punctuations and change the string to array and count the number of words in the array
+2. First remove all the punctuations and change the string to array and count the number of words in the array
 
    ```js
    let text =
@@ -70,7 +70,7 @@ const webTechs = [
    13
    ```
 
-1. In the following shopping cart add, remove, edit items
+3. In the following shopping cart add, remove, edit items
 
    ```js
    const shoppingCart = ["Milk", "Coffee", "Tea", "Honey"];
@@ -81,9 +81,9 @@ const webTechs = [
    - remove 'Honey' if you are allergic to honey
    - modify Tea to 'Green Tea'
 
-1. In countries array check if 'Ethiopia' exists in the array if it exists print 'ETHIOPIA'. If it does not exist add to the countries list.
-1. In the webTechs array check if Sass exists in the array and if it exists print 'Sass is a CSS preprocess'. If it does not exist add Sass to the array and print the array.
-1. Concatenate the following two variables and store it in a fullStack variable.
+4. In countries array check if 'Ethiopia' exists in the array if it exists print 'ETHIOPIA'. If it does not exist add to the countries list.
+5. In the webTechs array check if Sass exists in the array and if it exists print 'Sass is a CSS preprocess'. If it does not exist add Sass to the array and print the array.
+6. Concatenate the following two variables and store it in a fullStack variable.
 
    ```js
    const frontEnd = ["HTML", "CSS", "JS", "React", "Redux"];
@@ -112,7 +112,7 @@ const webTechs = [
 
     1.Slice the first ten countries from the [countries array](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js)
 
-1.  Find the middle country(ies) in the [countries array](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js)
-1.  Divide the countries array into two equal arrays if it is even. If countries array is not even , one more country for the first half.
+2.  Find the middle country(ies) in the [countries array](https://github.com/Asabeneh/30DaysOfJavaScript/tree/master/data/countries.js)
+3.  Divide the countries array into two equal arrays if it is even. If countries array is not even , one more country for the first half.
 
 🎉 CONGRATULATIONS ! 🎉
