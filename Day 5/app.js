@@ -674,4 +674,4 @@ else{
 }
 //divideCountry(first_half, second_half)
 
-//The codgit add .e above is incomplete
+//The code above is incomplete

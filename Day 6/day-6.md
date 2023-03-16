@@ -119,25 +119,25 @@ const mernStack = ["MongoDB", "Express", "React", "Node"];
      xkqci4utda1lmbelpkm03rba
    ```
 
-1. Write a script which generates a random hexadecimal number.
+2. Write a script which generates a random hexadecimal number.
 
    ```sh
    '#ee33df'
    ```
 
-1. Write a script which generates a random rgb color number.
+3. Write a script which generates a random rgb color number.
 
    ```sh
    rgb(240,180,80)
    ```
 
-1. Using the above countries array, create the following new array.
+4. Using the above countries array, create the following new array.
 
    ```sh
    ["ALBANIA", "BOLIVIA", "CANADA", "DENMARK", "ETHIOPIA", "FINLAND", "GERMANY", "HUNGARY", "IRELAND", "JAPAN", "KENYA"]
    ```
 
-1. Using the above countries array, create an array for countries length'.
+5. Using the above countries array, create an array for countries length'.
 
    ```sh
    [7, 7, 6, 7, 8, 7, 7, 7, 7, 5, 5]
